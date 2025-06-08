@@ -1,10 +1,12 @@
-# Exemplo do Jekyll
+# sherlockramos.blog
 
-Este diretório é um exemplo básico de um site [Jekyll](https://jekyllrb.com/) que pode ser implantado na Vercel sem nenhuma configuração.
+Este repositório contém o código-fonte do blog **sherlockramos.blog**, desenvolvido com [Jekyll](https://jekyllrb.com/) e inspirado no design do x.com.
 
-## Faça seu Próprio Deploy
+O site é dividido em quatro seções principais: Home, Blog, Ferramentas e Redes Sociais. Todo o layout segue boas práticas de UX e UI.
 
-Faça o deploy do seu projeto Jekyll na Vercel.
+## Como publicar
+
+Você pode fazer deploy do seu próprio projeto Jekyll na Vercel.
 
 [![Deploy com Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/vercel/vercel/tree/main/examples/jekyll&template=jekyll)
 
