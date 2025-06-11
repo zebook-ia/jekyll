@@ -1,6 +1,7 @@
-# Jekyll Example
+# sherlockramos
 
-This directory is a brief example of a [Jekyll](https://jekyllrb.com/) site that can be deployed to Vercel with zero configuration.
+Este repositório contém o código do blog **sherlockramos**, baseado em [Jekyll](https://jekyllrb.com/).
+Ele pode ser implantado na Vercel com configuração mínima.
 
 ## Deploy Your Own
 
