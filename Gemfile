@@ -30,3 +30,5 @@ gem "wdm", "~> 0.1.1", :platforms => [:mingw, :x64_mingw, :mswin]
 
 # Webrick not installed by default in Ruby 3.0+
 gem "webrick"
+gem "csv"
+gem "base64"
