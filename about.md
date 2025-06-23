@@ -1,17 +1,15 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Sobre
+permalink: /sobre/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Bem-vindo à página Sobre!
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Este é um ótimo lugar para você apresentar seu blog e quem você é. Conte aos seus leitores:
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+*   Qual o propósito do seu blog?
+*   Que tipo de conteúdo eles encontrarão aqui?
+*   Quem é você? Fale um pouco sobre sua experiência e paixões.
 
-[jekyll-organization]: https://github.com/jekyll
+Edite este arquivo em `about.md` para adicionar suas informações.
